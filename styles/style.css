@@ -62,15 +62,17 @@ button:hover {
 }
 
 .rodape {
-    color: #0056b3;
-    padding: 5px;
+    color: #00080f;
+    padding: 1px 1px;
     text-align: center;
     font-size: 1.5rem;
     font-weight: 400;
+    background-color: #86a1be;
+    border-radius: 5px;
 }
 
 .apresentacao__imagem {
-    max-width: 800px;
+    max-width: 00px;
     height: auto;
     padding: 5px;
 }
